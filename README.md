@@ -1,6 +1,5 @@
 # Sandesh-Ajjampur
 
-linkedin       twitter       kaggle       mail
 
 Hi there 👋
 I am Sandesh Ajjampur . My main interest lies in Machine Learning. I am always curious to learn something new.
